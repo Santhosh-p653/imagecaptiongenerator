@@ -1,0 +1,7 @@
+transformers 
+datasets 
+gradio 
+torch 
+torchvision 
+opencv-python 
+pillow
